@@ -11,7 +11,6 @@ This project is a **LinkedIn Resume Builder** that allows users to generate prof
 
 ---
 
-**Discord Link:-** https://discord.gg/GJ5BfwVd
 
 ## Features 🚀
 
